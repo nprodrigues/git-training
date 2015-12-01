@@ -6,3 +6,4 @@
 
 # Seventh line inserted in branch my_feature (merged to master)
 
+# Nineth line inserted in master - copy 1
